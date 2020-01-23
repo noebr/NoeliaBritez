@@ -1,0 +1,6 @@
+noe\dominio\Plaza.class
+noe\hibernate\PlazaDao.class
+noe\dominio\Main.class
+noe\hibernate\HibernateUtil.class
+noe\dominio\Municipalidad.class
+noe\hibernate\MunicipalidadDao.class
